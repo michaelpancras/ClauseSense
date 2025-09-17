@@ -46,5 +46,6 @@ demo_text = "This Agreement shall terminate upon thirty (30) days prior written 
 pred, conf = predict_clause(demo_text)
 print(f"Prediction: {pred} (confidence={conf:.2f})")
 
-## Output:
-Prediction: Termination For Convenience (confidence=0.78)
+# Output:
+# Prediction: Termination For Convenience (confidence=0.78)
+```
