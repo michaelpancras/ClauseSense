@@ -1,4 +1,4 @@
-ClauseSense 📝⚖️
+## ClauseSense 📝⚖️
 
 AI-Powered Legal Document Analyzer
 
