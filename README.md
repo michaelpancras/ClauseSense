@@ -1,5 +1,5 @@
 # ClauseSense 📝⚖️  
-**AI-Powered Legal Document Analyzer**
+**AI-Powered Legal Document Analyzer created and coded by Michael Pancras**
 
 **ClauseSense** is a machine learning project that classifies **legal contract clauses** into specific categories to assist with contract review and analysis.  
 It explores both **traditional ML baselines** and **deep learning transformers (LegalBERT)**, providing a full pipeline from preprocessing to evaluation.
